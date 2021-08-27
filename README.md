@@ -1,1 +1,1 @@
-simple solidity etherium contract
+simple solidity ethereum contract
